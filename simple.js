@@ -6,3 +6,5 @@ console.log("confusing");
 =======
 console.log("confusing")
 >>>>>>> 5ea91ad2ae20b752f6f6a1c4cfcc8f7ea305d160
+
+console.log("Thank you new Branch");
